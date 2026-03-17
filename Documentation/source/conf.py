@@ -10,7 +10,7 @@ copyright = '2026, NXP'
 author = 'Utkarsh Gupta'
 
 # The full version, including alpha/beta/rc tags
-release = 'lf-6.12.49-2.2.0'
+release = 'lf-6.18.2-1.0.0'
 
 
 # -- General configuration ---------------------------------------------------

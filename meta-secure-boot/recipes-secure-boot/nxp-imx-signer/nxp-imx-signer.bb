@@ -11,8 +11,6 @@ IMX_SIGNER ?= "git://github.com/nxp-imx-support/nxp-imx-signer.git;protocol=http
 SRCBRANCH = "master"
 SRCREV = "b8807075433527044b19f02f29f40fe9aa10220f"
 
-S = "${WORKDIR}/git"
-
 BOOT_TOOLS = "imx-boot-tools"
 
 do_deploy () {

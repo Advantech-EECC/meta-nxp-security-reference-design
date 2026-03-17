@@ -3,7 +3,7 @@ Automated image signing for secure boot
 
 .. note::
 
-    See `meta layer documentation <https://github.com/nxp-imx-support/meta-nxp-security-reference-design/tree/walnascar-6.12.49-2.2.0/meta-secure-boot>`_ for the information on the supported devices and supported distro for this release.
+    See `meta layer documentation <https://github.com/nxp-imx-support/meta-nxp-security-reference-design/tree/walnascar-6.18.2-1.0.0/meta-secure-boot>`_ for the information on the supported devices and supported distro for this release.
 
 Secure boot is an industry standard to ensure that the device boots a trusted OEM software. NXP i.MX devices support Root of Trust (RoT) through the secure boot method using the OEM trusted root keys. In general, the secure boot mechanism involves signing and authentication of Bootloader and OS kernel image.
 

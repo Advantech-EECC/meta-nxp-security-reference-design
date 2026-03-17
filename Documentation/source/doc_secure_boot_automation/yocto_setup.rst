@@ -15,7 +15,7 @@ To set up the Yocto project for secure boot build, perform the following steps:
 
 .. code-block::
 
-    repo init -u https://github.com/nxp-imx/imx-manifest -b imx-linux-walnascar -m imx-6.12.49-2.2.0_security-reference-design.xml
+    repo init -u https://github.com/nxp-imx/imx-manifest -b imx-linux-walnascar -m imx-6.18.2-1.0.0_security-reference-design.xml
     repo sync
     DISTRO=<DISTRO> MACHINE=<MACHINE> source imx-setup-release.sh -b <build directory>
 
